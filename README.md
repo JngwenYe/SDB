@@ -1,3 +1,38 @@
+<div align="center"> 
+
+# Safe Distillation Box（ECCV 2022）
+
+[Jingwen Ye](https://scholar.google.com/citations?user=8GQnNP0AAAAJ&hl=en),
+Yining Mao,
+[Jie Song](https://scholar.google.com/citations?hl=en&user=4OjO-WYAAAAJ),
+[Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en&oi=ao),
+[Cheng Jin](https://scholar.google.com/citations?user=5SCSiKwAAAAJ&hl)
+and [Mingli Song](https://scholar.google.com/citations?hl=en&user=7oLbhAwAAAAJ)
+
+[[Arxiv]](https://arxiv.org/abs/2112.03695)
+
+</div>
+
+This repository is an official PyTorch implementation of the paper
+[**『 Safe Distillation Box 』**](https://arxiv.org/abs/2112.03695).
+It provides a framework for Model IP Protection.
+
+![deposit](./sdb.png)
+
+If you use the code/model/results of this repository please cite:
+```
+@inproceedings{ye2022safe,
+  title={Safe distillation box},
+  author={Ye, Jingwen and Mao, Yining and Song, Jie and Wang, Xinchao and Jin, Cheng and Song, Mingli},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={3},
+  pages={3117--3124},
+  year={2022}
+}
+```
+
+
 ## Overview 
 
 * We build this code based on the previous work Nasty Teacher, thanks to their great work!

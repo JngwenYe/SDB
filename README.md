@@ -17,7 +17,11 @@ This repository is an official PyTorch implementation of the paper
 [**『 Safe Distillation Box 』**](https://arxiv.org/abs/2112.03695).
 It provides a framework for Model IP Protection.
 
-![deposit](./sdb.png)
+<p align="center">
+  <img src="./sdb.png" alt="deposit" width="400" height="350">
+</p>
+
+
 
 If you use the code/model/results of this repository please cite:
 ```
